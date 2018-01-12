@@ -1,0 +1,142 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button testing renders with color prop 1`] = `
+<TouchableOpacity
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "tomato",
+      },
+      Object {
+        "alignItems": "center",
+        "borderRadius": 10,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "marginHorizontal": "5%",
+        "marginVertical": "3%",
+        "paddingHorizontal": "3%",
+        "paddingVertical": "1%",
+      },
+      Object {},
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "white",
+          "fontSize": 40,
+        },
+        Object {
+          "alignSelf": "center",
+        },
+      ]
+    }
+  >
+    Text color
+  </Text>
+</TouchableOpacity>
+`;
+
+exports[`Button testing renders with iconName prop 1`] = `
+<TouchableOpacity
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "darkslateblue",
+      },
+      Object {
+        "alignItems": "center",
+        "borderRadius": 10,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "marginHorizontal": "5%",
+        "marginVertical": "3%",
+        "paddingHorizontal": "3%",
+        "paddingVertical": "1%",
+      },
+      Object {},
+    ]
+  }
+>
+  <Icon
+    color="white"
+    name="pencil"
+    size={50}
+    style={Object {}}
+  />
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "white",
+          "fontSize": 40,
+        },
+        Object {
+          "alignSelf": "center",
+        },
+      ]
+    }
+  >
+    Text icon
+  </Text>
+</TouchableOpacity>
+`;
+
+exports[`Button testing renders with text 1`] = `
+<TouchableOpacity
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "darkslateblue",
+      },
+      Object {
+        "alignItems": "center",
+        "borderRadius": 10,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "marginHorizontal": "5%",
+        "marginVertical": "3%",
+        "paddingHorizontal": "3%",
+        "paddingVertical": "1%",
+      },
+      Object {},
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "white",
+          "fontSize": 40,
+        },
+        Object {
+          "alignSelf": "center",
+        },
+      ]
+    }
+  >
+    Text
+  </Text>
+</TouchableOpacity>
+`;

@@ -1,0 +1,2097 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Button custom 1`] = `
+<View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
+  accessible={true}
+  collapsable={undefined}
+  hasTVPreferredFocus={undefined}
+  hitSlop={undefined}
+  isTVSelectable={true}
+  nativeID={undefined}
+  onLayout={undefined}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "borderRadius": 10,
+      "borderWidth": 1,
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "marginHorizontal": "5%",
+      "marginVertical": "3%",
+      "opacity": 1,
+      "paddingHorizontal": "3%",
+      "paddingVertical": "1%",
+    }
+  }
+  testID={undefined}
+  tvParallaxProperties={undefined}
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 40,
+        },
+        Object {
+          "alignSelf": "center",
+        },
+      ]
+    }
+  >
+    Hello
+  </Text>
+</View>
+`;
+
+exports[`Storyshots Button multiple 1`] = `
+<View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "darkslateblue",
+        "borderRadius": 10,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "marginHorizontal": "5%",
+        "marginVertical": "3%",
+        "opacity": 1,
+        "paddingHorizontal": "3%",
+        "paddingVertical": "1%",
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "white",
+            "fontSize": 40,
+          },
+          Object {
+            "alignSelf": "center",
+          },
+        ]
+      }
+    >
+      Button
+    </Text>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "darkslateblue",
+        "borderRadius": 10,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "marginHorizontal": "5%",
+        "marginVertical": "3%",
+        "opacity": 1,
+        "paddingHorizontal": "3%",
+        "paddingVertical": "1%",
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+    />
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "white",
+            "fontSize": 40,
+          },
+          Object {
+            "alignSelf": "center",
+          },
+        ]
+      }
+    >
+      Edit
+    </Text>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "darkslateblue",
+        "borderRadius": 10,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "marginHorizontal": "5%",
+        "marginVertical": "3%",
+        "opacity": 1,
+        "paddingHorizontal": "3%",
+        "paddingVertical": "1%",
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+    />
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "white",
+            "fontSize": 40,
+          },
+          Object {
+            "alignSelf": "center",
+          },
+        ]
+      }
+    >
+      Custom icon
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Storyshots Icon custom 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": "black",
+        "fontSize": 300,
+      },
+      Array [
+        Object {
+          "paddingHorizontal": "1%",
+        },
+        Object {},
+      ],
+      Object {
+        "fontFamily": "evilicons",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`Storyshots Icon multiple 1`] = `
+<View
+  style={
+    Object {
+      "flexDirection": "row",
+      "flexWrap": "wrap",
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "black",
+          "fontSize": 50,
+        },
+        Array [
+          Object {
+            "paddingHorizontal": "1%",
+          },
+          Object {},
+        ],
+        Object {
+          "fontFamily": "evilicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+</View>
+`;
