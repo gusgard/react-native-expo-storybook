@@ -24,6 +24,10 @@ Run `yarn android` or `yarn ios`
 
 `yarn start`
 
+#### URL
+
+`localhost:7007`
+
 ## Generate a new story
 
 Create a file in `storybook/stories` and run `yarn prestorybook`
